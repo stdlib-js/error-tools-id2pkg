@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/error-tools-id2pkg",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Return the package name associated with a specified error identifier prefix.",
   "license": "Apache-2.0",
   "author": {
