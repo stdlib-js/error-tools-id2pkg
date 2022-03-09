@@ -22,6 +22,7 @@
 
 var tape = require( 'tape' );
 var pkg2id = require( '@stdlib/error-tools-pkg2id' );
+var replace = require( '@stdlib/string-replace' );
 var id2pkg = require( './../lib' );
 
 
@@ -73,7 +74,7 @@ tape( 'the function returns a package name', function test( t ) {
 		'@stdlib/math-base-special-asin'
 	];
 	for ( i = 0; i < list.length; i++ ) {
-		expected = list[ i ];
+		expected = replace( list[ i ], '-', '/' );
 		actual = id2pkg( pkg2id( list[ i ] ) );
 		t.strictEqual( typeof actual, 'string', 'returns a string' );
 		t.strictEqual( actual, expected, 'returns expected value' );
