@@ -63,7 +63,7 @@ var id2pkg = require( '@stdlib/error-tools-id2pkg' );
 Returns the package name associated with a specified error identifier prefix.
 
 ```javascript
-var v = id2pkg( 'Wiw' );
+var v = id2pkg( '0H5' );
 /- returns '@stdlib-math-base-special-sin'
 ```
 
@@ -105,9 +105,9 @@ var v;
 var i;
 
 list = [
-    'Wiw',
-    'AqD',
-    'hrj'
+    '001',
+    '0A3',
+    '0Ab'
 ];
 len = list.length;
 
@@ -175,7 +175,7 @@ Options:
 ### Examples
 
 ```bash
-$ stdlib-id2pkg 'Wiw'
+$ stdlib-id2pkg '0H5'
 @stdlib/math/base/special/sin
 ```
 
@@ -196,6 +196,10 @@ $ stdlib-id2pkg 'Wiw'
 <!-- /.references -->
 
 <!-- <license> -->
+
+## License
+
+The data files (databases) are licensed under an [Open Data Commons Public Domain Dedication & License 1.0][pddl-1.0] and their contents are licensed under [Creative Commons Zero v1.0 Universal][cc0]. The software is licensed under [Apache License, Version 2.0][apache-license].
 
 <!-- </license> -->
 
@@ -225,11 +229,6 @@ For more information on the project, filing bug reports and feature requests, an
 [![Chat][chat-image]][chat-url]
 
 ---
-
-## License
-
-See [LICENSE][stdlib-license].
-
 
 ## Copyright
 
@@ -273,7 +272,11 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [umd-url]: https://github.com/stdlib-js/error-tools-id2pkg/tree/umd
 [esm-url]: https://github.com/stdlib-js/error-tools-id2pkg/tree/esm
 
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/error-tools-id2pkg/main/LICENSE
+[pddl-1.0]: http://opendatacommons.org/licenses/pddl/1.0/
+
+[cc0]: https://creativecommons.org/publicdomain/zero/1.0
+
+[apache-license]: https://www.apache.org/licenses/LICENSE-2.0
 
 <!-- <related-links> -->
 
