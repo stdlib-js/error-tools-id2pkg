@@ -26,7 +26,7 @@
 *
 * @example
 * var v = id2pkg( '0H5' );
-* /- returns '@stdlib-math-base-special-sin'
+* // returns '@stdlib/math/base/special/sin'
 */
 declare function id2pkg( id: string ): string | null;
 
