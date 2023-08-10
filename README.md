@@ -41,7 +41,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import id2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-id2pkg@deno/mod.js';
+import id2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-id2pkg@v0.0.2-deno/mod.js';
 ```
 
 #### id2pkg( id )
@@ -83,7 +83,7 @@ var v = id2pkg( 'unrecognized_alias_beep_boop_bop_bip' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import id2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-id2pkg@deno/mod.js';
+import id2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-id2pkg@v0.0.2-deno/mod.js';
 
 var list;
 var len;
