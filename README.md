@@ -43,7 +43,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-id2pkg = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-id2pkg@umd/browser.js' )
+id2pkg = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-id2pkg@v0.0.3-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -55,7 +55,7 @@ var id2pkg = require( 'path/to/vendor/umd/error-tools-id2pkg/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-id2pkg@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-id2pkg@v0.0.3-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -110,7 +110,7 @@ var v = id2pkg( 'unrecognized_alias_beep_boop_bop_bip' );
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-id2pkg@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-id2pkg@v0.0.3-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
