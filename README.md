@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import id2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-id2pkg@esm/index.mjs';
+import id2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-id2pkg@v0.3.0-esm/index.mjs';
 ```
 
 #### id2pkg( id )
@@ -99,7 +99,7 @@ var v = id2pkg( 'unrecognized_alias_beep_boop_bop_bip' );
 <body>
 <script type="module">
 
-import id2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-id2pkg@esm/index.mjs';
+import id2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-id2pkg@v0.3.0-esm/index.mjs';
 
 var list;
 var len;
