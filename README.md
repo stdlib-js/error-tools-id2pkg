@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import id2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-id2pkg@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/error-tools-id2pkg/tags). For example,
+
+```javascript
 import id2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-id2pkg@v0.4.0-esm/index.mjs';
 ```
 
@@ -99,7 +104,7 @@ var v = id2pkg( 'unrecognized_alias_beep_boop_bop_bip' );
 <body>
 <script type="module">
 
-import id2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-id2pkg@v0.4.0-esm/index.mjs';
+import id2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-id2pkg@esm/index.mjs';
 
 var list;
 var len;
