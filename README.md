@@ -186,16 +186,16 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/error-tools-id2pkg-cli.svg
 [npm-url]: https://npmjs.org/package/@stdlib/error-tools-id2pkg-cli
 
-[test-image]: https://github.com/stdlib-js/error-tools-id2pkg/actions/workflows/test.yml/badge.svg?branch=v0.4.0
-[test-url]: https://github.com/stdlib-js/error-tools-id2pkg/actions/workflows/test.yml?query=branch:v0.4.0
+[test-image]: https://github.com/stdlib-js/error-tools-id2pkg@v0.4.0/actions/workflows/test.yml/badge.svg?branch=v0.4.0
+[test-url]: https://github.com/stdlib-js/error-tools-id2pkg@v0.4.0/actions/workflows/test.yml?query=branch:v0.4.0
 
-[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/error-tools-id2pkg/main.svg
-[coverage-url]: https://codecov.io/github/stdlib-js/error-tools-id2pkg?branch=main
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/error-tools-id2pkg@v0.4.0/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/error-tools-id2pkg@v0.4.0?branch=main
 
 <!--
 
-[dependencies-image]: https://img.shields.io/david/stdlib-js/error-tools-id2pkg.svg
-[dependencies-url]: https://david-dm.org/stdlib-js/error-tools-id2pkg/main
+[dependencies-image]: https://img.shields.io/david/stdlib-js/error-tools-id2pkg@v0.4.0.svg
+[dependencies-url]: https://david-dm.org/stdlib-js/error-tools-id2pkg@v0.4.0/main
 
 -->
 
@@ -206,20 +206,20 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
-[cli-section]: https://github.com/stdlib-js/error-tools-id2pkg#cli
-[cli-url]: https://github.com/stdlib-js/error-tools-id2pkg/tree/cli
-[@stdlib/error-tools-id2pkg]: https://github.com/stdlib-js/error-tools-id2pkg/tree/main
+[cli-section]: https://github.com/stdlib-js/error-tools-id2pkg@v0.4.0#cli
+[cli-url]: https://github.com/stdlib-js/error-tools-id2pkg@v0.4.0/tree/cli
+[@stdlib/error-tools-id2pkg]: https://github.com/stdlib-js/error-tools-id2pkg@v0.4.0/tree/main
 
 [umd]: https://github.com/umdjs/umd
 [es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
 
-[deno-url]: https://github.com/stdlib-js/error-tools-id2pkg/tree/deno
-[deno-readme]: https://github.com/stdlib-js/error-tools-id2pkg/blob/deno/README.md
-[umd-url]: https://github.com/stdlib-js/error-tools-id2pkg/tree/umd
-[umd-readme]: https://github.com/stdlib-js/error-tools-id2pkg/blob/umd/README.md
-[esm-url]: https://github.com/stdlib-js/error-tools-id2pkg/tree/esm
-[esm-readme]: https://github.com/stdlib-js/error-tools-id2pkg/blob/esm/README.md
-[branches-url]: https://github.com/stdlib-js/error-tools-id2pkg/blob/main/branches.md
+[deno-url]: https://github.com/stdlib-js/error-tools-id2pkg@v0.4.0/tree/deno
+[deno-readme]: https://github.com/stdlib-js/error-tools-id2pkg@v0.4.0/blob/deno/README.md
+[umd-url]: https://github.com/stdlib-js/error-tools-id2pkg@v0.4.0/tree/umd
+[umd-readme]: https://github.com/stdlib-js/error-tools-id2pkg@v0.4.0/blob/umd/README.md
+[esm-url]: https://github.com/stdlib-js/error-tools-id2pkg@v0.4.0/tree/esm
+[esm-readme]: https://github.com/stdlib-js/error-tools-id2pkg@v0.4.0/blob/esm/README.md
+[branches-url]: https://github.com/stdlib-js/error-tools-id2pkg@v0.4.0/blob/main/branches.md
 
 [pddl-1.0]: http://opendatacommons.org/licenses/pddl/1.0/
 
