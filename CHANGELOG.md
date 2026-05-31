@@ -2,6 +2,38 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-05-31)
+
+<section class="features">
+
+### Features
+
+-   [`15f6a2c`](https://github.com/stdlib-js/stdlib/commit/15f6a2c0db4fb35e9b135784659e519e194274c2) - update error databases [(#11304)](https://github.com/stdlib-js/stdlib/pull/11304)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`15f6a2c`](https://github.com/stdlib-js/stdlib/commit/15f6a2c0db4fb35e9b135784659e519e194274c2) - **feat:** update error databases [(#11304)](https://github.com/stdlib-js/stdlib/pull/11304) _(by stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.4.1">
 
 ## 0.4.1 (2026-02-07)
